@@ -1,2 +1,2 @@
 # My-portfolio
-This project is created by using html,css,js
+This website is created by using html,css,js
